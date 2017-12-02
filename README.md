@@ -1,4 +1,4 @@
-**Updated August 2017**
+**Note: As of December 2017, this bookmarklet is obsolete as a official download link has been added to the VSCode Marketplace.**
 
 # How to use
 
