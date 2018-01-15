@@ -1,5 +1,3 @@
-**Note: As of December 2017, this bookmarklet is obsolete as a official download link has been added to the VSCode Marketplace.**
-
 # How to use
 
 - Copy the content of [`vsix-bookmarklet`](https://raw.githubusercontent.com/geek1011/vscode-extension-download/master/vsix-bookmarklet.js), create a bookmark in your browser.
